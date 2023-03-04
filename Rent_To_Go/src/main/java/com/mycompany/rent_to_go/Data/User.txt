@@ -1,0 +1,11 @@
+US1;John;johncorner12@gmail.com;john;john1234;06/12/2022;Admin
+US2;James;james123@gmail.com;james;james1234;10/12/2022;Customer
+US3;mark;mark@mail.com;mark;mark1234;10/12/2022;Customer
+US4;asf;adfs@mail.com;asdf;adsf1234;10/12/2022;Customer
+US5;jackson;jackson@mail.com;jackson;jackson1234;10/12/2022;Customer
+US6;Park;park@mail.com;park;park1234;10/12/2022;Customer
+US7;Kamarul;kam@mail.com;kam;kam12345;10/12/2022;Customer
+US8;Lim;lim@mail.com;lim;lim123456;10/12/2022;Customer
+US9;Ali;ali@gmail.com;ali;ali12345;16/12/2022;Customer
+US10;Akmal;akmal@mail.com;akmal;akmal123;16/12/2022;Customer
+US11;Ain;ain@hotmail.com;ain;ain12345;16/12/2022;Customer

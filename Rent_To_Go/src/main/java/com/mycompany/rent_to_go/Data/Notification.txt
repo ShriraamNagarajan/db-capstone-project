@@ -1,0 +1,35 @@
+NF1;Your booking has been successfully made. Please wait for admin approval.;CB1
+NF2;Your booking has been successfully made. Please wait for admin approval.;CB2
+NF3;Your booking has been approved by our admin;CB1
+NF4;Your booking has been rejected by our admin. Please contact us at +045345345 for more information.;CB2
+NF5;Your booking has status has been changed from approved to picked-up;CB1
+NF6;Your booking has status has been changed from picked-up to dropped off;CB1
+NF7;Your booking has been successfully made. Please wait for admin approval.;CB3
+NF8;Your booking has been successfully made. Please wait for admin approval.;CB4
+NF9;Your booking has been approved by our admin;CB4
+NF10;Your booking has been rejected by our admin. Please contact us at +045345345 for more information.;CB3
+NF11;Your booking status has been changed from approved to picked-up;CB4
+NF12;Your booking has been successfully made. Please wait for admin approval.;CB5
+NF13;Your booking has been approved by our admin;CB5
+NF14;Your booking status has been changed from picked-up to dropped off;CB5
+NF15;Your booking has been successfully made. Please wait for admin approval.;CB6
+NF15;Your booking has been successfully made. Please wait for admin approval.;CB6
+NF16;Your booking has been successfully made. Please wait for admin approval.;CB6
+NF17;Your booking has been successfully made. Please wait for admin approval.;CB7
+NF18;Your booking has been successfully made. Please wait for admin approval.;CB8
+NF19;Your booking has been approved by our admin;CB6
+NF20;Your booking has been rejected by our admin. Please contact us at +045345345 for more information.;CB7
+NF21;Your booking has been approved by our admin;CB8
+NF22;Your booking has been successfully made. Please wait for admin approval.;CB9
+NF23;Your booking has been approved by our admin;CB9
+NF24;Your booking has been successfully made. Please wait for admin approval.;CB10
+NF25;Your booking has been rejected by our admin. Please contact us at +045345345 for more information.;CB10
+NF26;Your booking status has been changed from picked-up to dropped off;CB6
+NF27;Your booking status has been changed from picked-up to dropped off;CB9
+NF28;Your booking has been successfully made. Please wait for admin approval.;CB11
+NF29;Your booking has been approved by our admin;CB11
+NF30;Your booking status has been changed from picked-up to dropped off;CB8
+NF31;Your booking status has been changed from picked-up to dropped off;CB11
+NF32;Your booking has been successfully made. Please wait for admin approval.;CB12
+NF33;Your booking has been rejected by our admin. Please contact us at +045345345 for more information.;CB12
+NF34;Your booking has been successfully made. Please wait for admin approval.;CB13

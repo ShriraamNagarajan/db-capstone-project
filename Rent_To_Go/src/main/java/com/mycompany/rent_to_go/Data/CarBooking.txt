@@ -1,0 +1,13 @@
+CB1;CUS8;CA9;17/12/2022;9;0;17/12/2022;10;0;dropedOff;1.0;George Town Rental Centre;George Town Rental Centre;P1
+CB2;CUS8;CA6;18/01/2023;9;0;26/01/2023;13;0;rejected;196.0;Kuala Lumpur Rental Centre;Kuala Lumpur Rental Centre;P2
+CB3;CUS1;CA2;30/12/2022;9;0;31/12/2022;10;0;rejected;25.0;George Town Rental Centre;George Town Rental Centre;P3
+CB4;CUS1;CA3;09/02/2023;9;0;11/02/2023;9;0;pickedUp;48.0;George Town Rental Centre;George Town Rental Centre;P4
+CB5;CUS1;CA5;24/12/2022;9;0;25/12/2022;9;0;dropedOff;24.0;George Town Rental Centre;George Town Rental Centre;P5
+CB6;CUS6;CA6;30/12/2022;9;0;31/12/2022;9;0;dropedOff;24.0;Kuala Lumpur Rental Centre;Kuala Lumpur Rental Centre;P6
+CB7;CUS6;CA3;24/12/2022;9;0;25/12/2022;9;0;rejected;24.0;George Town Rental Centre;George Town Rental Centre;P7
+CB8;CUS6;CA3;18/12/2022;9;0;21/12/2022;9;0;dropedOff;72.0;George Town Rental Centre;George Town Rental Centre;P8
+CB9;CUS7;CA2;17/12/2022;9;0;18/12/2022;9;0;dropedOff;24.0;George Town Rental Centre;George Town Rental Centre;P9
+CB10;CUS7;CA4;17/12/2022;9;0;18/12/2022;9;0;rejected;24.0;George Town Rental Centre;George Town Rental Centre;P10
+CB11;CUS4;CA11;25/12/2022;9;0;30/12/2022;12;0;dropedOff;123.0;Kuala Lumpur Rental Centre;Kuala Lumpur Rental Centre;P11
+CB12;CUS4;CA5;18/12/2022;9;0;23/12/2022;12;0;rejected;123.0;George Town Rental Centre;George Town Rental Centre;P12
+CB13;CUS4;CA1;25/12/2022;9;0;30/12/2022;9;0;checkedOut;120.0;Kuala Lumpur Rental Centre;Kuala Lumpur Rental Centre;P13
