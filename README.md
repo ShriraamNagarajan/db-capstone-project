@@ -38,7 +38,7 @@ To set up the LittleLemon restaurant database on your local machine, follow thes
 1. Install MySQL on your local machine if you haven't already.
 2. Clone the repository:
 ```
-git clone https://github.com/your-username/LittleLemon-Database.git
+git clone https://github.com/ShriraamNagarajan/LittleLemon-Database.git
 ```
 2. Import the SQL schema and data:
 ```
@@ -81,6 +81,6 @@ mysql -u username -p password < week2_tasks.sql
 + For any inquiries or further collaboration, feel free to reach out:
 
     + Email: shrirajan331@gmail.com
-    + LinkedIn: Shriraam Nagarajan
+    + LinkedIn: [Shriraam Nagarajan](https://www.linkedin.com/in/shriraam-nagarajan-827b38198/)
 
 Thank you for checking out this project!😊
